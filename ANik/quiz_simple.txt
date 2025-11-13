@@ -1,0 +1,39 @@
+q. Do you think SAH is the greatest all-rounder?
+Human: Yes, of course. He is the greatest all-rounder of all time.
+AI: SAH is widely recognized for his all-round performance, combining both batting and bowling excellence in international cricket.
+
+q. Why did Najmul Hossain Shanto resign as Test captain?
+Human: Shanto stepped down following a heavy defeat to Sri Lanka. Recovery for a fresh leadership.
+AI: Najmul Hossain Shanto resigned due to poor team performance under his captaincy, indicating a shift towards rebuilding the squad's leadership structure.
+
+q. What are the main reasons for Bangladesh's recent defeats?
+Human: The main reasons are poor batting, lack of power hitting, and consistent bowling. Overall, poor performance.
+AI: Recent defeats can be attributed to inconsistent top-order batting, limited strike rotation, and ineffective death bowling strategies.
+
+q. How effective is the BPL in developing national cricket?
+Human: League cricket helps to uncover new talent. But BPL does not act like this.
+AI: BPL has the potential to develop national players, but the lack of structured talent grooming and over-reliance on foreign players limit its long-term impact.
+
+q. If the salary of these cricketers depends on their score, do you think it will help their individual performance?
+Human: Yes, I think this will increase their performance.
+AI: Linking salaries to performance may motivate players to perform better, but it could also increase pressure and impact team coordination.
+
+q. How has fielding contributed to the team's poor performance?
+Human: Fielding affects, but in their match the fielding was good for the BD team.
+AI: Poor fielding, including dropped catches and misfields, has significantly contributed to match losses and affected team morale.
+
+q. What impact did the absence of Shakib have on the team?
+Human: Yes, it makes a great impact on the team, like leadership and all-around capabilities in the field.
+AI: The absence of Shakib reduced the team's balance, removing both a key bowling option and a reliable middle-order batsman, along with leadership stability.
+
+q. Did the selection process overlook players?
+Human: Yes, it happens like Noor-Ul-Hasan Shohan's performance was very impressive both in the national and global league, but he doesn't get a chance in the team.
+AI: Several performing players were not included in the squad, raising concerns about the transparency and criteria of the selection committee.
+
+q. Are senior players underperforming?
+Human: Yes, senior players like Mushfiq, Mahmudullah, with great experience, though they are not performing well.
+AI: Despite their experience, senior players have shown inconsistency, leading to questions about their current form and fitness levels.
+
+q. Is there a lack of strategic vision for the future?
+Human: The focus on short-term results may be an effect of young talents affecting their growth.
+AI: A lack of long-term planning and overemphasis on short-term wins has hampered the development of promising young talents and team stability.

@@ -1,0 +1,66 @@
+[
+  {
+    "keywords": ["who", "is", "shakib"],
+    "answer": "Shakib Al Hasan is a world-renowned Bangladeshi cricketer and one of the best all-rounders in modern cricket.\nHe was born on March 24, 1987, in Magura, Bangladesh.\nShakib has represented Bangladesh in all formats of the game—Test, ODI, and T20I.\nHe is well-known for his versatile batting, wicket-taking spin bowling, and leadership skills.\nGlobally, Shakib is recognized as one of the finest all-rounders and a true icon of Bangladesh cricket."
+  },
+  {
+    "keywords": ["birth", "year", "shakib"],
+    "answer": "Shakib Al Hasan was born on March 24, 1987, in Magura, Bangladesh. From a young age, he showed great talent in cricket and quickly rose through the ranks. Today, he is regarded as one of Bangladesh’s greatest cricketers and an outstanding all-rounder globally."
+  },
+  {
+    "keywords": ["wife", "shakib", "name"],
+    "answer": "Shakib Al Hasan is married to Umme Ahmed Shishir, whom he tied the knot with in 2012. Their relationship has been strong and supportive throughout his cricketing career. They have built a family together and have three children."
+  },
+  {
+    "keywords": ["team", "national", "shakib"],
+    "answer": "Shakib has been a crucial member of the Bangladesh national cricket team for over a decade. He contributes as both a reliable batsman and a skillful bowler. His leadership qualities have also seen him captain the team in many international matches."
+  },
+  {
+    "keywords": ["batting", "style", "shakib"],
+    "answer": "Shakib bats left-handed and is known for his elegant and patient batting style. He can adapt to different match situations, playing aggressively when needed or stabilizing the innings with steady shots. His technique is praised for its balance and consistency."
+  },
+  {
+    "keywords": ["bowling", "style", "shakib"],
+    "answer": "As a bowler, Shakib uses slow left-arm orthodox spin to great effect. He varies his pace and flight to deceive batsmen, making him a formidable opponent in all formats of the game. His bowling has won many crucial matches for Bangladesh."
+  },
+  {
+    "keywords": ["ipl", "shakib", "teams"],
+    "answer": "In the Indian Premier League, Shakib has played for teams like Kolkata Knight Riders and Sunrisers Hyderabad. His all-round abilities made him a valuable player in the IPL, where he impressed with both bat and ball against top international talent."
+  },
+  {
+    "keywords": ["education", "shakib", "study"],
+    "answer": "Alongside his cricket career, Shakib pursued higher education at the American International University-Bangladesh. Balancing studies and professional sports requires discipline, and Shakib managed to excel in both fields effectively."
+  },
+  {
+    "keywords": ["ranking", "all-rounder", "shakib"],
+    "answer": "Shakib has achieved the top spot multiple times in the ICC rankings for all-rounders, a testament to his exceptional skills in both batting and bowling. Maintaining such a high ranking over years reflects his consistency and dedication."
+  },
+  {
+    "keywords": ["records", "shakib", "achievements"],
+    "answer": "Throughout his career, Shakib has broken numerous records including being Bangladesh's highest wicket-taker in all formats. He was the fastest Bangladeshi to reach 2000 ODI runs and has several Man of the Match awards to his name."
+  },
+  {
+    "keywords": ["captaincy", "shakib", "team"],
+    "answer": "Shakib has led the Bangladesh cricket team as captain in various formats. His tactical acumen and ability to motivate teammates have been praised. Under his captaincy, the team has achieved some memorable victories and competitive performances."
+  },
+  {
+    "keywords": ["children", "family", "shakib"],
+    "answer": "Family is very important to Shakib, who is a father of three children. Despite a busy cricketing schedule, he prioritizes spending quality time with his family. This balance between personal life and professional commitments is often admired."
+  },
+  {
+    "keywords": ["awards", "shakib", "honors"],
+    "answer": "Shakib has been honored with several prestigious awards, including the ICC Player of the Year and national accolades from Bangladesh. These awards recognize his contribution to cricket and his role in raising Bangladesh’s profile in the sport."
+  },
+  {
+    "keywords": ["fitness", "training", "shakib"],
+    "answer": "Maintaining fitness is key to Shakib’s longevity in international cricket. He follows a strict training regimen focusing on strength, endurance, and agility. His commitment to fitness helps him perform consistently at the highest level."
+  },
+  {
+    "keywords": ["philanthropy", "shakib", "charity"],
+    "answer": "Outside cricket, Shakib is involved in philanthropic efforts that focus on education and health services in Bangladesh. He uses his platform to support social causes and inspire youth to contribute positively to society."
+  },
+  {
+    "keywords": ["future", "plans", "shakib"],
+    "answer": "Looking ahead, Shakib aims to continue his contribution to Bangladesh cricket both as a player and mentor. He is focused on nurturing young talent and hopes to see Bangladesh achieve greater success on the world stage."
+  }
+]
